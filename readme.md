@@ -1,7 +1,8 @@
 # simple_flask_server
-Set up a simple Flask server that displays "Hello, Flask!".
+server1.py: Set up a simple Flask server that displays "Hello, Flask!".
+server2.py: Flask server with explicit status code response
 
 Required framework:
 * Flask
 
-(Practice project as part of the IBM course “Developing AI Applications with Python and Flask”.)
+(Practice projects as part of the IBM course “Developing AI Applications with Python and Flask”.)
