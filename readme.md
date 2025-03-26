@@ -1,6 +1,6 @@
 # simple_flask_server
 server1.py: Set up a simple Flask server that displays "Hello, Flask!".
-server2.py: Flask server with explicit status code response
+server2.py: Flask server with explicit status code response.
 
 Required framework:
 * Flask
