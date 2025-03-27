@@ -1,3 +1,5 @@
+# Basic structure of a Flask server
+
 # Import the Flask class from the flask module
 from flask import Flask
 

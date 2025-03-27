@@ -1,3 +1,5 @@
+# Flask server with set response status code
+
 from flask import Flask, make_response
 
 # Create an instance of the Flask class, passing in the name of the current module
